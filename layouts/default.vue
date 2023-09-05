@@ -3,6 +3,7 @@
     <Head>
       <title>Durian Flower</title>
     </Head>
+    <NavigationBar />
     <slot />
   </div>
 </template>
